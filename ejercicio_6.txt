@@ -1,0 +1,4 @@
+# La materia con el promedio más bajo fue Matemáticas discretas con un promedio de 62.56.
+# El promedio general de la unidad 3 (70.50) no es menor que el de la
+# unidad 1 (68.52) y la unidad 2 (69.34).
+# En total, 11 alumnos quedan con promedio general menor a 70.
